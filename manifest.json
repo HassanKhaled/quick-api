@@ -1,6 +1,6 @@
 {
-  "name": "Temp Extensions",
-  "description": "Template Chrome Extension",
+  "name": "Api Reference ",
+  "description": "Open api reference ",
   "version": "1.0",
   "permissions": ["activeTab", "scripting"],
   "manifest_version": 3,
